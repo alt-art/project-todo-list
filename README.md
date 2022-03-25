@@ -1,4 +1,4 @@
-# Project pixels art
+# Project To-Do list
 
 In this project, I made a To-Do list app.
 
